@@ -1,0 +1,39 @@
+/* Nền tối và chữ sáng cho đọc ban đêm */
+body {
+    background-color: #121212; /* nền đen xám */
+    color: #f0f0f0; /* chữ sáng */
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Tiêu đề */
+h1, h2, h3 {
+    color: #ffcc70;
+}
+
+/* Liên kết */
+a {
+    color: #66ccff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffa500;
+    text-decoration: underline;
+}
+
+/* Danh sách chương */
+ul {
+    padding-left: 20px;
+}
+
+/* Footer */
+footer {
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #aaaaaa;
+    text-align: center;
+}
